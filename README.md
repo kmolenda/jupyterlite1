@@ -16,5 +16,5 @@ Zbudowana na bazie: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static
 * Tworzone dokumenty przechowywane są na lokalnym komputerze (w cache'u przeglądarki). Można je utrwalić na lokalnym komputerze (prawokliknięcie na pliku dokumentu -> Download)
 * Można, w przeglądarce, zainstalować plugin. Aplikacja JupyterLite będzie uruchamiała się w oddzielnym oknie (poza przeglądarką), możliwa synchronizacja zawartości z innymi przeglądarkami
 
-> [!CAUTION] UWAGA
+> [!CAUTION]
 > Jest to wersja eksperymentalna
