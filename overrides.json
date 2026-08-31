@@ -1,4 +1,17 @@
 {
+  "@jupyterlab/launcher-extension:plugin": {
+  "layout": {
+      "Python 3.13 (XPython)": {
+        "rank": 1
+      },
+      "SQLite (xsqlite)": {
+        "rank": 2
+      },
+      "Python (Pyodide)": {
+        "rank": 100
+      }
+    }
+  },
   "@jupyterlab/apputils-extension:themes": {
     "theme": "JupyterLab Dark"
   },
