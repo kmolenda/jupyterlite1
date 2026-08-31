@@ -1,0 +1,13 @@
+name: build-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+  - jupyterlite-core
+  - jupyterlite-xeus
+
+  - pip:
+      - jupyterlab-open-url-parameter
