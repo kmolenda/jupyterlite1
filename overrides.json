@@ -1,0 +1,38 @@
+{
+  "@jupyterlab/launcher-extension:plugin": {
+    "layout": {
+      "Python (Xeus)": {
+        "rank": 1
+      },
+      "Python (Pyodide)": {
+        "rank": 100
+      },
+      "SQLite": {
+        "rank": 2
+      }
+    }
+  },
+  "@jupyterlab/apputils-extension:themes": {
+    "theme": "JupyterLab Dark"
+  },
+  "@jupyterlab/notebook-extension:panel": {
+    "toolbar": [
+      {
+        "name": "download",
+        "label": "Download",
+        "args": {},
+        "command": "docmanager:download",
+        "icon": "ui-components:download",
+        "rank": 50
+      }
+    ]
+  },
+  "@jupyterlab/console-extension:tracker": {
+    "interactionMode": "terminal"
+  },
+  "@jupyterlab/docmanager-extension:plugin": {
+  "defaultViewers": {
+    "markdown": "Markdown Preview"
+    }
+  }
+}
