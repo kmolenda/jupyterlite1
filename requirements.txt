@@ -52,4 +52,4 @@ jupyterlab-open-url-parameter
 jupyterlab-myst
 
 # https://jupyterlite.readthedocs.io/en/latest/howto/content/filesystem-access.html
-jupyterlab-filesystem-access
+# jupyterlab-filesystem-access
