@@ -1,7 +1,7 @@
 # Core modules (mandatory)
 jupyterlite-core==0.8.3
-jupyterlab~=4.5.0
-notebook~=7.5.0
+jupyterlab~=4.6.3
+notebook~=7.6.2
 
 
 # Python kernel (optional)
@@ -52,9 +52,11 @@ bqplot
 jupyterlab-open-url-parameter
 
 # https://github.com/jupyter-book/jupyterlab-myst
-jupyterlab-myst
+# jupyterlab-myst
+jupyterlab-myst==2.4.2
+
 # https://pypi.org/project/jupyterlab-markdown-syntax-rendering-fix/
-jupyterlab-markdown-syntax-rendering-fix==1.0.2
+#jupyterlab-markdown-syntax-rendering-fix==1.0.2
 
 # https://jupyterlite.readthedocs.io/en/latest/howto/content/filesystem-access.html
 # jupyterlab-filesystem-access
