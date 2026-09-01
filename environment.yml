@@ -5,5 +5,37 @@ channels:
   - https://prefix.dev/conda-forge
 
 dependencies:
+
+  # kernele
   - xeus-python
   - xeus-sqlite
+
+  # matematyka i analiza danych
+  - numpy
+  - pandas
+  - scipy
+
+  # wizualizacja
+  - matplotlib
+  - plotly
+
+  # grafy i algorytmy
+  - networkx
+  - pydot
+
+  # matematyka symboliczna
+  - sympy
+
+  # symulacje
+  - simpy
+
+  # internet
+  - requests
+
+  # widgety
+  - ipywidgets
+  - ipycanvas
+  - ipyleaflet
+
+  # szablony
+  - jinja2
